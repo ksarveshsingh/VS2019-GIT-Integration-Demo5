@@ -11,5 +11,10 @@ namespace VS2019_GIT_Integration_Demo5
         {
 
         }
+
+        public string CallMethod()
+        {
+            return "C#";
+        }
     }
 }
