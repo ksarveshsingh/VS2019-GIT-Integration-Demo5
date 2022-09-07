@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VS2019-GIT-Integration-Demo5", "VS2019-GIT-Integration-Demo5\VS2019-GIT-Integration-Demo5.csproj", "{EC19F013-D230-4688-A874-9D52BD74FDA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC19F013-D230-4688-A874-9D52BD74FDA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC19F013-D230-4688-A874-9D52BD74FDA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC19F013-D230-4688-A874-9D52BD74FDA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC19F013-D230-4688-A874-9D52BD74FDA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B095A837-C3FA-401B-9B7F-E62B14E78BF2}
+	EndGlobalSection
+EndGlobal
