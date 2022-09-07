@@ -14,7 +14,7 @@ namespace VS2019_GIT_Integration_Demo5
 
         public string MyPreferred()
         {
-            return "Visual Basic";
+            return "C#";
         }
     }
 }
